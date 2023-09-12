@@ -1,2 +1,3 @@
 # BUSCA
-Busca dentro dessa página.
+
+#Busca somente dentro dessa página.
